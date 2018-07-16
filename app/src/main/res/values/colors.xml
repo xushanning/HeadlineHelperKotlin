@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#298FFF</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_segment">#EDEDED</color>
+    <!--字体深颜色-->
+    <color name="text_dark_color">#434343</color>
+    <color name="text_light_color">#9E9E9E</color>
+
+    <color name="bg_frame_color">#E1E1E1</color>
+    <!--下载按钮不可点击颜色-->
+    <color name="button_unpressed_bg">#EDEDED</color>
+
+    <color name="color_loading_Shimmer">#999999</color>
+</resources>
